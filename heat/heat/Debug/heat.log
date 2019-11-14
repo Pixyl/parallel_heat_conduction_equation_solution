@@ -1,0 +1,7 @@
+﻿  heat.cpp
+c:\users\kate\documents\github\heat_conduction_equation_solution_parallel\heat\heat\heat.cpp(286): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Skipping... (no relevant changes detected)
+  matrix.cpp
+  LINK : C:\Users\Kate\Documents\GitHub\heat_conduction_equation_solution_parallel\heat\Debug\heat.exe not found or not built by the last incremental link; performing full link
+  heat.vcxproj -> C:\Users\Kate\Documents\GitHub\heat_conduction_equation_solution_parallel\heat\Debug\heat.exe
+  heat.vcxproj -> C:\Users\Kate\Documents\GitHub\heat_conduction_equation_solution_parallel\heat\Debug\heat.pdb (Full PDB)
